@@ -1,6 +1,6 @@
-# Project Title
+# Lyric Lounge
 
-Simple overview of use/purpose.
+Here the boat of connections flows through the river called music 
 
 ## Description
 

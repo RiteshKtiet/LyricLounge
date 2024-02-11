@@ -1,5 +1,18 @@
 {
   "expo": {
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Inter-Black.otf"
+          ]
+        }
+      ]
+    ]
+      
+    
+    
     "name": "LyricLounge",
     "slug": "LyricLounge",
     "version": "1.0.0",
